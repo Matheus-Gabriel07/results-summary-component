@@ -5,7 +5,7 @@ Esta é uma solução para [Results summary component](https://www.frontendmento
 ## Links
 
 - Solution URL: [Click me!]()
-- Live Site URL: [Click me!]()
+- Live Site URL: [Click me!](https://htmlpreview.github.io/?https://github.com/Matheus-Gabriel07/results-summary-component/blob/main/index.html)
 
 ## Author
 
